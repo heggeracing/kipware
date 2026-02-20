@@ -1,0 +1,29 @@
+Operation #1 : jdh-1000-SR Facing
+Operation Type1 : facing-square
+Operation #2 : jdh-1000-QS
+Operation Type2 : qualify-stock
+Operation #3 : Chamfer jdh-1000-SR Facing
+Operation Type3 : chamfer
+END OF CYCLE OUTPUT
+
+Program Number : O1000
+Post Filename : C:\KipwareM\JDH_POST_2.kmp
+Tool Number : 1
+Work Offset : G54
+Spindle RPM : 0
+Spindle Direction : cw
+Operation Z Clearance Plane : 0
+Operation Height Offset : 1
+Operation Coolant Status : on
+Cycle1 FileName : jdh-1000-SR Facing
+Cycle2 FileName : 
+Cycle3 FileName : 
+Cycle4 FileName : 
+Cycle5 FileName : 
+Cycle6 FileName : 
+Cycle7 FileName : 
+Cycle8 FileName : 
+Cycle9 FileName : 
+Cycle10 FileName : 
+
+END OF OPERATION DATA OUTPUT
