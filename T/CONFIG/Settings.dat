@@ -1,0 +1,12 @@
+KipwareT Units : inch
+Tool Change Format : double
+Offset Cancel Status : off
+M06 Output Status : off
+Default Program Format : fanuc_type2
+Decimal Output in Canned Cycle Call : no
+Default NC File Extension : 
+Default NC File Path : C:\KipwareT
+Default POST File : C:\KipwareT\Fanuc.ktp
+Default X Start Point : 10
+Default Z Start Point : 10
+Start Point Output Status : on
