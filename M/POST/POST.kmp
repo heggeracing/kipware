@@ -1,0 +1,16 @@
+Program Start Characters : %
+Program End Characters : %
+Program Start Up Blocks
+(+++++ PROGRAM START BLOCK +++++)
+G20 ( Inch )
+1st Tool Start Up Blocks
+(+++++ 1ST TOOL START BLOCK +++++)
+Subsequent Tool Start Up Blocks
+(+++++ SUBSEQUENT TOOL START BLOCK +++++)
+Tool End Blocks
+(+++++ TOOL END BLOCK +++++)
+Program End Blocks
+(+++++ PROGRAM END BLOCK +++++)
+M05 ( Spindle Stop )
+G28 X0 Y0 Z0 ( Home )
+M30 ( End )
