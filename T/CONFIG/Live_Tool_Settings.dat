@@ -1,0 +1,35 @@
+Live Tool Spindle ON : M13
+Live Tool Spindle REVERSE ON : M14
+Live Tool Spindle OFF : M69
+Turning Mode : M34
+Milling Mode : M35
+C Axis ON : M45
+C Axis OFF : M46
+Brake ON : M68
+Brake OFF : M69
+Y Axis Mode ON : M236
+Y Axis Mode OFF : M237
+Sub-Spindle Letter Address : B
+M Code - Main Spindle OPEN : M11
+M Code - Main Spindle OPEN2 : 
+M Code - Main Spindle OPEN3 : 
+M Code - Main Spindle CLOSE : M10
+M Code - Main Spindle CLOSE2 : 
+M Code - Main Spindle CLOSE3 : 
+M Code - Sub Spindle OPEN : M111
+M Code - Sub Spindle OPEN2 : 
+M Code - Sub Spindle OPEN3 : 
+M Code - Sub Spindle CLOSE : M110
+M Code - Sub Spindle CLOSE2 : 
+M Code - Sub Spindle CLOSE3 : 
+M Code - Sub Spindle CW : M143
+M Code - Sub Spindle CCW : M144
+M Code - Sub Spindle OFF : M145
+M Code - Sub Spindle Speed Letter Address : P
+M Code - Sub Spindle MODE ON : G14
+M Code - Sub Spindle MODE OFF : G15
+M Code - Synchronization ON : M37
+M Code - Synchronization OFF : M38
+M Code - Cut Off Check : M80
+Sub Spindle Zero Return Command Line : G00G28B0
+X Axis Drilling - Final X Status : inc
