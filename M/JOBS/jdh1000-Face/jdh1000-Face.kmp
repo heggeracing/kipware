@@ -7,7 +7,7 @@ Operation Type3 : chamfer
 END OF CYCLE OUTPUT
 
 Program Number : O1000
-Post Filename : C:\KipwareM\JDH_POST_2.kmp
+Post Filename : C:\KipwareM\POST.kmp
 Tool Number : 1
 Work Offset : G54
 Spindle RPM : 0
