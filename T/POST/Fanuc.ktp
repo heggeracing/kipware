@@ -1,0 +1,22 @@
+Program Start Characters : %
+Program End Characters : %
+Program Start Up Blocks
+(PROGRAM DESCRIPTION)
+(REVISION DATE)
+G00 G28 U0
+G28 W0
+M01
+1st Tool Start Up Blocks
+(TOOL DESCRIPTION)
+(OPERATION DESCRIPTION)
+Subsequent Tool Start Up Blocks
+(TOOL DESCRIPTION)
+(OPERATION DESCRIPTION)
+Tool End Blocks
+G00 G28 U0 M09
+M01
+Program End Blocks
+G00 G28 U0 M09
+G28 W0
+M05
+M30

@@ -1,0 +1,13 @@
+Program Start Characters : 
+Program End Characters : 
+Program Start Up Blocks
+(FAGOR POST)
+1st Tool Start Up Blocks
+
+Subsequent Tool Start Up Blocks
+
+Tool End Blocks
+G00X10.0Z10.0
+M01
+Program End Blocks
+M30
