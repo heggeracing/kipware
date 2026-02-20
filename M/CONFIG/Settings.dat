@@ -6,7 +6,7 @@ Height Offset Activation Code : G43
 Tool Change Return Line : 
 4th Axis Letter Address : B
 4th Axis Precision : 2
-Default Post Filename : C:\KipwareM\JDH_POST_2.kmp
+Default Post Filename : C:\KipwareM\POST.kmp
 Default NC File Extension : .nc
 Default NC File Path : C:\KipwareM\KipwareM_Gcode
 Default Program Format : fanuc
