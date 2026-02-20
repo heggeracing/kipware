@@ -1,0 +1,14 @@
+KipwareM Units : inch
+Tool Change Format : single
+Next Tool Look Ahead Status : on
+Next Tool Look Ahead Format : A_M06
+Height Offset Activation Code : G43
+Tool Change Return Line : 
+4th Axis Letter Address : B
+4th Axis Precision : 2
+Default Post Filename : C:\KipwareM\JDH_POST_2.kmp
+Default NC File Extension : .nc
+Default NC File Path : C:\KipwareM\KipwareM_Gcode
+Default Program Format : fanuc
+Rigid Tapping Pre-Command : M29
+Rigid Tapping S Command Status : on
