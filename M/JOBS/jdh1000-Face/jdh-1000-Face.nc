@@ -1,5 +1,17 @@
 %
 O1000
+
+(TOOL LIST)
+(Program Number : O1000)
+(-------------------------------------------------------------------------------------------)
+(Operation Number : 1)
+(Tool Number : 1)
+(Work Offset : G54)
+(Height Offset Number : 1)
+(Tool Diameter : 0.375)
+(Cutter Comp Offset Number : 0)
+(-------------------------------------------------------------------------------------------)
+
 (+++++ PROGRAM START BLOCK +++++)
 G20 ( Inch )
 
